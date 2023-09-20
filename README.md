@@ -18,3 +18,8 @@ Custom pcb to replace Dualshock 4's micro b  port with usb c (PD compatible)
 - Led's (RGB, side view) https://a.aliexpress.com/_EHr7vQn
 - Resistors (size:0805, res:5.1kOhm) https://a.aliexpress.com/_Ezzw5QJ
 - USB C (female, pins:16, padding-bottom:0.8mm) https://a.aliexpress.com/_EJhQRSJ
+
+## Tools (redommended next to the obvious)
+- Hot plate
+- Flux
+- Solder wick
