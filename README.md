@@ -23,3 +23,4 @@ Custom pcb to replace Dualshock 4's micro b port with usb c (PD compatible). It 
 - Hot plate
 - Flux
 - Solder wick
+- Hot air gun
