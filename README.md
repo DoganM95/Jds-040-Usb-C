@@ -1,9 +1,20 @@
 # DS4-UsbC-Mod
+
 Custom pcb to replace Dualshock 4's micro b port with usb c (PD compatible). It was made to replace the jds-040 model but might be a compatible replacement for other models.
 
-<img src="https://github.com/DoganM95/DS4-UsbC-Mod/assets/38842553/2156dd19-5f74-4983-b0be-04cec12e4c07" height="400px">
-<img src="https://github.com/DoganM95/DS4-UsbC-Mod/assets/38842553/dac39760-7246-4728-9780-7458eb919624" height="400px">
+<table>
+  <tr>
+    <td><img src="https://github.com/DoganM95/DS4-UsbC-Mod/assets/38842553/ba1c8847-5bf2-4835-9569-e061a3e7da26" alt="USB-C PCB Bottom View" style="width:100%; width: 500px;" /></td>
+    <td><img src="https://github.com/DoganM95/DS4-UsbC-Mod/assets/38842553/dc7a516c-05b3-4503-b699-14db82dd3720" alt="USB-C PCB Top View" style="width:100%; width: 500px;" /></td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td><img src="https://github.com/DoganM95/DS4-UsbC-Mod/assets/38842553/2156dd19-5f74-4983-b0be-04cec12e4c07" alt="USB-C PCB Top View" style="width:100%; width: 500px;" /></td>
+    <td><img src="https://github.com/DoganM95/DS4-UsbC-Mod/assets/38842553/dac39760-7246-4728-9780-7458eb919624" alt="USB-C PCB Bottom View" style="width:100%; width: 500px;" /></td>
+  </tr>
+</table>
 
 ## Key features
 - Usb C port (with D+ and D-)
