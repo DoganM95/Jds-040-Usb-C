@@ -16,6 +16,23 @@ Custom pcb to replace Dualshock 4's micro b port with usb c (PD compatible). It 
   </tr>
 </table>
 
+## FPC pinout
+
+Starting with the pin that is closest to the charge port and ending with the pin that is closest to the led's:
+
+1. GND
+2. GND
+3. D +
+4. D -
+5. GND
+6. GND
+7. Green LED (3V3_G)
+8. Red LED VCC (2V2_G)
+9. Blue LED VCC (3V_G)
+10. LED VCC
+11. USB 5V
+12. USB 5V
+
 ## Key features
 - Usb C port (with D+ and D-)
 - Compatible with power delivery (communicates to get 5V)
@@ -24,7 +41,7 @@ Custom pcb to replace Dualshock 4's micro b port with usb c (PD compatible). It 
 - Dual RGB led's
 
 ## Parts
-- PCB: Get the latest gerber zip in releases and order it from Jlcpcb
+- PCB: Get the latest gerber zip in releases and order it from Jlcpcb, with 1mm PCB thickness
 - FPC connector (pins:12, pitch:0.5mm. Salvage it from an existing board -> ) https://a.aliexpress.com/_EjykXX1
 - Led's (RGB, side view) https://a.aliexpress.com/_EHr7vQn
 - Resistors (size:0603, res:5.1kOhm) https://a.aliexpress.com/_EIPYwrH
